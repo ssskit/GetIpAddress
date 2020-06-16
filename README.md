@@ -1,5 +1,5 @@
 # GetIpAdress
-基于纯真ip库查询ip所在地，开箱即用<br>
+基于纯真ip库查询ip真实地理位置，超级简单开箱即用<br>
 
 ### 特点：
 1. 不配置和使用数据库，妈妈再也不用担心配置问题了
@@ -17,3 +17,7 @@ use GetIpAddress\IpOperationClass\GetIpHandle;
 
 echo GetIpHandle::getAddress('171.12.10.156');
 ```
+
+### About me
+Email：ssskit@qq.com<br>
+个人博客：http://ssskit.cn

@@ -1,7 +1,7 @@
 {
     "name": "ssskit/get-ip-address",
     "description": "基于纯真IP库查询IP所在地,开箱即用",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
