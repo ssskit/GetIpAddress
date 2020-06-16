@@ -10,3 +10,10 @@
 ```
 composer require ssskit/get-ip-address
 ```
+
+### Demo
+```php
+use GetIpAddress\IpOperationClass\GetIpHandle;
+
+echo GetIpHandle::getAddress('171.12.10.156');
+```
