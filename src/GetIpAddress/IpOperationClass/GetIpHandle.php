@@ -1,6 +1,5 @@
 <?php
 namespace GetIpAddress\IpOperationClass;
-use Zhuzhichao\IpLocationZh\Ip;
 
 class GetIpHandle{
     /**

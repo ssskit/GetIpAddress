@@ -11,8 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0.0",
-        "zhuzhichao/ip-location-zh": "^2.4"
+        "php": ">=7.0.0"
     },
     "autoload": {
         "psr-4": {
