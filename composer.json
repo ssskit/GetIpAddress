@@ -1,0 +1,21 @@
+{
+    "name": "ssskit/get-ip-address",
+    "description": "基于纯真IP库查询IP所在地,开箱即用",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kit",
+            "email": "ssskit@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "GetIpAddress\\IpOperationClass\\": "src/GetIpAddress/IpOperationClass"
+        }
+    }
+}
